@@ -1,0 +1,16 @@
+{
+  "name": "walmir-barbearia",
+  "version": "1.0.0",
+  "description": "SaaS - Com banco de dados e HTTP",
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "license": "ISC",
+  "author": "Miguel Bebiano",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
