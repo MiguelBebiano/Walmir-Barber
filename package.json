@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git init"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "Miguel Bebiano",
   "type": "commonjs",
   "main": "index.js",
